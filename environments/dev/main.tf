@@ -13,6 +13,8 @@
 # limitations under the License.
 
 # “Data Lake CI/CD Workshop for a customer 2” 
+#  "Data Lake CI/CD Testing 1".
+# CI/CD Test1 after refactoring 1
 
 terraform {
   required_version = ">= 0.12.0"
